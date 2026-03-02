@@ -5,62 +5,55 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "#ingeniería-de-software",
+      "query": "tag:#ingeniería-de-software  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "#requerimientos",
+      "query": "tag:#requerimientos  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "#arquitectura",
+      "query": "tag:#arquitectura  ",
       "color": {
         "a": 1,
-        "rgb": 14754672
+        "rgb": 11657298
       }
     },
     {
-      "query": "#pruebas",
+      "query": "tag:#implementación  ",
       "color": {
         "a": 1,
-        "rgb": 45296
+        "rgb": 5431378
       }
     },
     {
-      "query": "#diseño",
+      "query": "tag:#pruebas  ",
       "color": {
         "a": 1,
-        "rgb": 12472544
+        "rgb": 5431473
       }
     },
     {
-      "query": "#infrastructura",
+      "query": "tag:#infrastructura  ",
       "color": {
         "a": 1,
-        "rgb": 14754595
+        "rgb": 5419488
       }
     },
     {
-      "query": "#mantenimiento",
+      "query": "tag:#mantenimiento  ",
       "color": {
         "a": 1,
-        "rgb": 2979323
-      }
-    },
-    {
-      "query": "#implementación",
-      "color": {
-        "a": 1,
-        "rgb": 6434415
+        "rgb": 5395168
       }
     }
   ],
@@ -69,11 +62,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4019828977761009,
-  "close": false
+  "scale": 0.934655265184067,
+  "close": true
 }

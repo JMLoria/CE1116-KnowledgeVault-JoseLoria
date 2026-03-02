@@ -15,7 +15,7 @@ Topic:
 - 
 
 ## 🔗 Connections
-- [[Ejemplo Nueva Nota]]
+- [[]]
 
 ## 💡 Personal Insight (Opcional)
 - 

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "38dc091e45a56cf3",
+        "id": "50daa5de1156df66",
         "type": "tabs",
         "children": [
           {
-            "id": "089103400c9e21e1",
+            "id": "9264bebbfffdbf46",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -166,9 +166,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "089103400c9e21e1",
+  "active": "9264bebbfffdbf46",
   "lastOpenFiles": [
+    "CE1116/06_Despliegue e Infrastructura/Redundante localmente en el cloud.md",
+    "CE1116/06_Despliegue e Infrastructura/Geo-redundante en el cloud.md",
+    "CE1116/06_Despliegue e Infrastructura/Redundante en zona en el cloud.md",
+    "CE1116/06_Despliegue e Infrastructura/IaaS vs PaaS vs SaaS.md",
+    "CE1116/04_Implementación/Escalamiento horizontal y vertical en el cloud.md",
+    "CE1116/03_Arquitectura y Diseño/Cloud Híbrido (Hybrid cloud).md",
+    "CE1116/03_Arquitectura y Diseño/Virtual Private Cloud (VPC).md",
+    "CE1116/06_Despliegue e Infrastructura/Cloud Público.md",
     "CE1116/04_Implementación/Función de Activación.md",
+    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
+    "Redundancia zonal.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/08_Templates/Atomic Template.md",
+    "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
+    "README.md",
+    "CE1116/01_Procesos de Desarrollo/Product Owner.md",
     "CE1116/05_Pruebas/Alucinaciones.md",
     "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
     "CE1116/02_Requirimientos/Ventana de Contexto.md",
@@ -179,21 +194,6 @@
     "CE1116/04_Implementación/Tokenización.md",
     "CE1116/03_Arquitectura y Diseño/Microservicios.md",
     "CE1116/04_Implementación/Estándares de Programación.md",
-    "CE1116/02_Requirimientos/User Story.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
-    "README.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/08_Templates/Atomic Template.md",
-    "CE1116/05_Pruebas/Pruebas Funcionales.md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/02_Requirimientos/Stakeholder.md",
-    "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
-    "CE1116/01_Procesos de Desarrollo/Velocity.md",
-    "CE1116/01_Procesos de Desarrollo/Taskboard.md",
-    "CE1116/01_Procesos de Desarrollo/Story Points.md",
-    "CE1116/01_Procesos de Desarrollo/Sprint Planning.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
